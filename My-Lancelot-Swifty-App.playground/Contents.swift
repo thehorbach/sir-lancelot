@@ -3,3 +3,5 @@
 import UIKit
 
 let name = "Sir Lancelot"
+
+let lvl = 1
