@@ -2,6 +2,8 @@
 
 import UIKit
 
-let name = "Sir Lancelot"
+let str1 = "Sir"
+let str2 = "Lancelot"
+let hero = str1 + str2
 
-let lvl = 1
+print(hero)
