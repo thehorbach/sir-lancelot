@@ -25,5 +25,13 @@ if b1 == true && b2 == true {
     print("Great \(hero) may pass!")
 }
 
-
+//Adventure #4
+let goal = 10
+if lvl == goal {
+    print("You rule, Lancelot!")
+} else {
+    let toDo = goal - lvl
+    print(toDo)
+    lvl += 1
+}
 
