@@ -27,11 +27,19 @@ if b1 == true && b2 == true {
 
 //Adventure #4
 let goal = 10
+let cheerUp = "You rule, Lancelot!"
 if lvl == goal {
-    print("You rule, Lancelot!")
+    print(cheerUp)
 } else {
     let toDo = goal - lvl
     print(toDo)
-    lvl += 1
+    for x in lvl...goal-1 {
+        lvl += 1
+    }
+    print(cheerUp)
 }
+
+
+
+
 
