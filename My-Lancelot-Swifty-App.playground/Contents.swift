@@ -43,6 +43,8 @@ if lvl == goal {
 //Adventure #6
 //Adventure #7
 
+var iPromiseToCodeTommorrow = true
+
 
 
 
