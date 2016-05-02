@@ -45,7 +45,9 @@ if lvl == goal {
 //Adventure #8
 //Adventure #9
 
+
 var iPromiseToCodeTommorrow = true
+var tomorrowIsTheDayWhenIFinalyCode = true
 
 
 
