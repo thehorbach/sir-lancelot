@@ -48,6 +48,7 @@ if lvl == goal {
 
 var iPromiseToCodeTommorrow = true
 var tomorrowIsTheDayWhenIFinalyCode = true
+var test = true
 
 
 
